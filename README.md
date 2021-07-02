@@ -1,3 +1,6 @@
 # Practice27
-Test code first repository 
-e first repository 
+This is my web site uploaded
+https://s3chkin.github.io/Practice27/
+
+
+
